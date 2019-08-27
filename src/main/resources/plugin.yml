@@ -1,0 +1,4 @@
+name: Teams
+version: ${project.version}
+main: me.picknchew.teams.Teams
+depend: [PlaceholderAPI]

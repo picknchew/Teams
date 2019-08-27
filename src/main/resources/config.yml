@@ -1,0 +1,10 @@
+# amount of members that can be in a team for a normal player.
+default_max_members: 10
+default_max_homes: 3
+
+character_limit: 12
+
+blacklist:
+- some_name_here
+
+placeholder: "&8[&e%team%&8] "

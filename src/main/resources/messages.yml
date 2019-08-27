@@ -1,0 +1,128 @@
+join_team:
+- "&cYou have joined %team%"
+
+leave_team:
+- "&cYou have left the team."
+
+invite_player:
+- "&cYou have invited %player% to the team."
+
+player_left:
+- "&c%player% left the team."
+
+player_joined:
+- "&c%player% has joined the team!"
+
+create_team:
+- "You have created %team%!"
+
+disband_team:
+- "&cYou have disbanded your team."
+
+team_info:
+- "&cTeam: %team%"
+- "&cOwner: %owner%"
+- "&cMembers: %amount_online%/%total_members%"
+- "&cMax members: %max_members%"
+- "&cKills: %kills%"
+- "&cDeaths: %deaths%"
+- "&cK/D Ratio: %kdr%"
+- "&cMembers online: %members_online%"
+
+player_invited:
+- "&cYou were invited to %team%. Type /team accept %team% to join!"
+
+reload:
+- "&cAll messages and configurable items have been reloaded."
+
+help:
+- "&c/team"
+- "&c/team create {name}"
+- "&c/team disband"
+- "&c/team leave"
+- "&c/team info {team}"
+- "&c/team chat"
+- "&c/team invite {name}"
+- "&c/team accept {name}"
+- "&c/team sethome {name}"
+- "&c/team home {name}"
+- "&c/team kick {name}"
+
+set_home:
+- "&cHome has been set!"
+
+chat_format:
+- "&c%player%: %message%"
+
+no_team:
+- "&cYou are not in a team!"
+
+already_in_team:
+- "&cYou are already in a team! Leave your current team before joining another one!"
+
+admin_disband:
+- "&c%team% was disbanded!"
+
+team_does_not_exist:
+- "&cThe specified team does not exist!"
+
+not_invited:
+- "&cYou are not invited to %team%!"
+
+team_disbanded:
+- "&cThe team you were in has been disbanded."
+
+team_chat:
+- "&cYou are now talking in team chat."
+
+all_chat:
+- "&cYou are now talking in all chat."
+
+not_owner:
+- "&cYou are not the owner!"
+
+player_not_found:
+- "&cThe specified player was not found!"
+
+not_a_player:
+- "&cYou must be a player to use this command!"
+
+team_full:
+- "&cThe team you are trying to join is full!"
+
+home_not_found:
+- "&cThe home specified could not be found!"
+
+no_homes:
+- "&cNo homes could be found!"
+
+team_already_exists:
+- "&cA team with that name already exists!"
+
+cannot_invite_self:
+- "&cYou cannot invite yourself!"
+
+blacklisted:
+- "&cThat name cannot be used as a team name!"
+
+exceeds_limit:
+- "&cThe name specified exceeds the character limit!"
+
+player_not_in_team:
+- "&cThe specified player is not in your team!"
+
+team_kicked:
+- "&c%player% was kicked from the team!"
+
+player_kicked:
+- "&cYou have been kicked from the team!"
+
+cannot_kick_self:
+- "&cYou cannot kick yourself from the team!"
+
+home_limit:
+- "&cYou have reached the home limit!"
+
+list_homes:
+- "More than one home is set:"
+- "%homes%"
